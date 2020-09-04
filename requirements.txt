@@ -1,0 +1,4 @@
+pystan
+fbprophet
+pandas_datareader
+flask
