@@ -29,5 +29,10 @@ Currently, it just takes a POST request, using the parameters:
 - n_days: Number of days you want to forecast, starting tomorrow.
 
 
+### Work in progress
 
+- Switch to a better accuracy model.
+- Add support for more variables
+- Add exception handling for code.
 
+![example](https://res.cloudinary.com/victor1600/image/upload/v1599241819/markdown/ML/example_noqepc.png)
